@@ -16,19 +16,19 @@ AqrayPath helps pedestrians choose the *safest walking route* by analyzing **cri
 
 ---
 
-## 📸 Demo Preview
+## Screenshots
 
-### 🏠 Home Page
-![Home Page](images/AqrayPath,HomePage.png)
+### Homepage
+![Homepage](images/homepage.png)
 
-### 🔥 Heatmap on Map
-![Heatmap](images/HeatMap,OnMap.png)
+### Heatmap on Map
+![Heatmap](images/heatmap.png)
 
-### ✅ Recommended Route
-![Recommended Route](images/RecommendedRoute.png)
+### Recommended Route
+![Recommended Route](images/recommended.png)
 
-### 📊 Route Comparison
-![Route Comparison](images/RouteComparision.png)
+### Route Comparison
+![Route Comparison](images/comparison.png)
 
 ---
 
